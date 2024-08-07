@@ -1,4 +1,8 @@
 I am a fix file which will be used to fix bug
 
 this is another comment 
-add another marketing message section
+
+One more bug deteched and fixed 
+fourth bug fixed
+fifth bug fixed
+
