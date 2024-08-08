@@ -8,4 +8,6 @@ fifth bug fixed
 
 another fix message for pink mode
 another fix message for purple mode 
+onemore line added to fixes  for checking rebase
+
 
