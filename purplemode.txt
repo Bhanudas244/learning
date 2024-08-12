@@ -1,4 +1,3 @@
 Purple mode added for website
 another line added to purplemode
-
-purplemode:added another line purplemode.txt
+one more line added from purplemode
